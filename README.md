@@ -1,6 +1,6 @@
 <h2> Hi, I'm Marylene Sawyer! <img src="https://media0.giphy.com/media/kreQ1pqlSzftm/200.webp?cid=ecf05e47q4j4vtxgv3t8us3nwu63lapr5j05gykkm6qmnpze&rid=200.webp" width="70"></h2>
 <img align='right' src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47n83f93v43d5ulqt7rb0qufoxtmu63mub1fxd6xgc&rid=200w.webp" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media0.giphy.com/media/145zPIZz1oAaCA/200w.webp?cid=ecf05e47fu7y76lndgke0tekuy101zxqs17sa2rsq7690f1n&rid=200w.webp" width="50"></p>
+<p><em>Remote Full-stack web developer ready for ✨adventure✨</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marylene%20Sawyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marylene-sawyer/)](https://www.linkedin.com/in/marylene-sawyer/)
 [![Twitter Badge](https://img.shields.io/badge/-@MaryleneSawyer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaryleneSawyer)](https://twitter.com/MaryleneSawyer)
@@ -10,7 +10,7 @@
 
 ```javascript
 const maryleneSawyer = {
-  lookingFor: "Software Engineer" || "Full-stack web developer",
+  lookingFor: "Software engineer" || "Full-stack web developer",
   pronouns: ["she", "her"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI,Bootstrap, CSS, SQL, MongoDB, Python, Java],
   challenge: "I am honing my React skills and picking up Angular",
