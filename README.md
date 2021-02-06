@@ -1,5 +1,5 @@
 <h2> Hi, I'm Marylene Sawyer! <img src="https://media0.giphy.com/media/kreQ1pqlSzftm/200.webp?cid=ecf05e47q4j4vtxgv3t8us3nwu63lapr5j05gykkm6qmnpze&rid=200.webp" width="70"></h2>
-<img align='right' src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200w.webp?cid=ecf05e47n83f93v43d5ulqt7rb0qufoxtmu63mub1fxd6xgc&rid=200w.webp" width="230">
+<img align='right' src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47au13ddn9b1v7t1kwkwcr8ilc87aj28ypj1362txd&rid=200w.webp" width="230">
 <p><em>Remote Full-stack web developer ready for ✨adventure✨</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marylene%20Sawyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marylene-sawyer/)](https://www.linkedin.com/in/marylene-sawyer/)
