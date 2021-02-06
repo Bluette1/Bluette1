@@ -1,4 +1,4 @@
-<h2> Hi, I'm Marylene Sawyer! <img src="https://media0.giphy.com/media/kreQ1pqlSzftm/200.webp?cid=ecf05e47q4j4vtxgv3t8us3nwu63lapr5j05gykkm6qmnpze&rid=200.webp" width="70"></h2>
+<h2> Hi, I'm Marylene Sawyer!</h2>
 <img align='right' src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47au13ddn9b1v7t1kwkwcr8ilc87aj28ypj1362txd&rid=200w.webp" width="230">
 <p><em>Remote Full-stack web developer ready for ✨adventure✨</em></p>
 
@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@MaryleneSawyer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaryleneSawyer)](https://twitter.com/MaryleneSawyer)
 
 
-### <img src="https://media4.giphy.com/media/c1c1M1a2yZDd9aVReu/giphy.webp?cid=ecf05e47q4j4vtxgv3t8us3nwu63lapr5j05gykkm6qmnpze&rid=giphy.webp" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const maryleneSawyer = {
