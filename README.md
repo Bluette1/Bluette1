@@ -1,6 +1,6 @@
 <h2> Hi, I'm Marylene Sawyer!</h2>
 <img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47au13ddn9b1v7t1kwkwcr8ilc87aj28ypj1362txd&rid=200w.webp" width="230">
-<p><em>Remote Full-stack web developer ready for ✨adventure✨</em></p>
+<p><em>Full-stack web developer ready for ✨adventure✨</em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Marylene%20Sawyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marylene-sawyer/)](https://www.linkedin.com/in/marylene-sawyer/)
 [![Twitter Badge](https://img.shields.io/badge/-@MaryleneSawyer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaryleneSawyer)](https://twitter.com/MaryleneSawyer)
