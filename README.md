@@ -13,8 +13,7 @@ const maryleneSawyer = {
   lookingFor: 'Software engineer' || 'Full-stack web developer',
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI,Bootstrap, CSS, SQL, MongoDB, Python, Java],
   challenge: 'I am honing my React skills and picking up Angular',
-  funFacts: ['I wrote my first computer program about 12 years ago', 
-  'I am ready for the next offer']
+  funFacts: ['I wrote my first computer program about 12 years ago', 'I am ready for the next offer']
 }
 ```
 
