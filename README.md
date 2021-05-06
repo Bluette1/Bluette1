@@ -10,11 +10,10 @@
 
 ```javascript
 const maryleneSawyer = {
-  lookingFor: "Software engineer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
+  lookingFor: 'Software engineer' || 'Full-stack web developer',
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI,Bootstrap, CSS, SQL, MongoDB, Python, Java],
-  challenge: "I am honing my React skills and picking up Angular",
-  funFacts: ['I have 1.5 years of work experience', 
+  challenge: 'I am honing my React skills and picking up Angular',
+  funFacts: ['I wrote my first computer program about 10 years ago', 
   'I am ready for the next offer']
 }
 ```
