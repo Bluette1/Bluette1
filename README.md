@@ -10,7 +10,7 @@
 
 ```javascript
 const maryleneSawyer = {
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI,Bootstrap, CSS, SQL, MongoDB, Python, Java, PHP],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, SQL, MongoDB, Python, Java, PHP],
   Frontend challenge: 'I am honing my React skills and picking up other frontend libraries.',
   Backend challenge: 'I am polishing my skills in Node.js and picking up other backend frameworks.',
   funFacts: ['I wrote my first computer program more than a decade ago.']
@@ -20,6 +20,6 @@ const maryleneSawyer = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluette1&theme=highcontrast)](https://github.com/bluette1/github-readme-stats)
 
 
-<p>You can check out my portfolio <a href="http://www.marylene.tech/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://portfolio-ms-app.onrender.com/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 Image courtesy of [Giphy.com](https://giphy.com/)
