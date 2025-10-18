@@ -1,25 +1,43 @@
-<h2> Hi, I'm Marylene Sawyer!</h2>
-<img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47au13ddn9b1v7t1kwkwcr8ilc87aj28ypj1362txd&rid=200w.webp" width="230">
-<p><em>Full-stack remote developer ready for ✨adventure✨</em></p>
+<h2 align="center">Hi, I'm Marylene Sawyer 👋</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marylene%20Sawyer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marylene-sawyer/)](https://www.linkedin.com/in/marylene-sawyer/)
-[![Twitter Badge](https://img.shields.io/badge/-@MaryleneSawyer-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MaryleneSawyer)](https://twitter.com/MaryleneSawyer)
+<p align="center">
+  <img src="https://media3.giphy.com/media/3oKIPnAiaMCws8nOsE/200w.webp?cid=ecf05e47au13ddn9b1v7t1kwkwcr8ilc87aj28ypj1362txd&rid=200w.webp" width="230" alt="Developer at work">
+</p>
 
+<p align="center"><em>Full-stack remote developer crafting purposeful digital experiences ✨</em></p>
 
-### A little more about me...  
+<p align="center">
+  <a href="mailto:marylene.sawyer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio.appwork.co.za/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://www.linkedin.com/in/marylene-sawyer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+<a href="https://x.com/MaryleneSawyer" target="_blank">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)"/>
+</a>
+
+</p>
+
+---
+
+### 👩‍💻 About Me
 
 ```javascript
 const maryleneSawyer = {
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, SQL, MongoDB, Python, Java, PHP],
-  Frontend challenge: 'I am honing my React skills and picking up other frontend libraries.',
-  Backend challenge: 'I am polishing my skills in Node.js and picking up other backend frameworks.',
-  funFacts: ['I wrote my first computer program more than a decade ago.']
+  code: [
+    'JavaScript', 'React', 'Next.js', 'Node.js', 'Ruby on Rails',
+    'HTML/CSS', 'Tailwind CSS', 'Bootstrap', 'Semantic UI',
+    'SQL', 'MongoDB', 'Python', 'Java', 'PHP'
+  ],
+  frontendChallenge: 'Honing React and exploring mobile frameworks like Flutter and React Native.',
+  backendChallenge: 'Polishing Node.js and experimenting with cloud infrastructure and Docker.',
+  funFacts: [
+    'I wrote my first computer program over a decade ago.',
+    'I turn everyday experiences into design metaphors.',
+    'I love troubleshooting both code and cheesecake recipes 🍰'
+  ]
 }
-```
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluette1&theme=highcontrast)](https://github.com/bluette1/github-readme-stats)
-
-
-<p>You can check out my portfolio <a href="https://portfolio-ms-app.onrender.com/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
-
-Image courtesy of [Giphy.com](https://giphy.com/)
